@@ -1,0 +1,5 @@
+<!-- res/drawable/btn_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF"/> <!-- Warna putih sedikit kebiruan -->
+    <corners android:radius="50dp"/> <!-- Membuat bentuk elips -->
+</shape>

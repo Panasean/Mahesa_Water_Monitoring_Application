@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049944094848",
+    "project_id": "mahesa-23838",
+    "storage_bucket": "mahesa-23838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049944094848:android:bb3ab06f93a28cfd748e65",
+        "android_client_info": {
+          "package_name": "com.example.mahesa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC58XEnqTxEWD4LsAj0TrQPt5IsE0rodkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
